@@ -1,3 +1,4 @@
+[lab]
 alex-jumphost ansible_host=35.212.101.10
 bob-jumphost ansible_host=35.212.1.186
 chip-jumphost ansible_host=35.212.124.254
